@@ -1,0 +1,15 @@
+:host div{
+    width: 100%;
+    height: 55px;
+    background: linear-gradient(to right, #ece9e6, #ffffff); 
+}
+
+:host a{
+    width: 190px;
+    left:43%;
+    top:1%;
+    position: absolute;
+    font-size: 20pt;
+    color: goldenrod;
+    text-decoration: none;
+}
